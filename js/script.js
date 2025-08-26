@@ -34,3 +34,4 @@ fetch(DATA_URL)
     console.error("Hubo un problema con el fetch:", error);
   });
   
+  
